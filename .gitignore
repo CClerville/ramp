@@ -1,4 +1,4 @@
-createRampDatabase.sql
-createSmartDatabase.sql
-Zend/
-application.ini
+installation/createRampDatabase.sql
+installation/createSmartDatabase.sql
+library/Zend/
+application/config/application.ini
