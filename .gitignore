@@ -2,3 +2,12 @@ library/Zend/
 installation/createRampDatabases.sql
 installation/createSmartDatabases.sql
 application/configs/application.ini
+
+application/configs/application.ini
+application/configs/resources.db.ini
+application/controllers/plugins
+application/forms/Experiments
+application/views/scripts/table/oldAndNew
+public/css/seeminglyNotUsed/
+
+dataArchives
